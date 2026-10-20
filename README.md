@@ -189,10 +189,10 @@ These are proposed next steps, not actions performed in this lab:
 
 ## Capture Files
 
-The following captures were saved locally during the investigation:
+The following lab captures are available for download and analysis in Wireshark:
 
-- `01-normal-http.pcapng`
-- `02-web-probing-retest.pcapng`
+- [Normal HTTP capture](01-normal-http.pcapng)
+- [Simulated web-probing capture](02-web-probing-retest.pcapng)
 
 The normal-traffic screenshots include separate baseline requests. Their timestamps and client source ports may differ; they should not be treated as one identical TCP session.
 
